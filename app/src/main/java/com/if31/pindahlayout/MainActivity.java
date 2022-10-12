@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         btnPindah = findViewById(R.id.btn_pindah);
-        etNama = findViewById(R.id.et_nama)
+        etNama = findViewById(R.id.et_nama);
 
         btnPindah.setOnClickListener(new View.OnClickListener() {
             @Override
